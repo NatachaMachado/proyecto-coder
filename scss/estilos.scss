@@ -1,0 +1,28 @@
+@import "./bases/_generales";
+
+
+
+
+
+header{position: sticky;
+    top: 0;display: flex;justify-content:
+    space-between;align-items: center;
+h1{font-size: 80px;
+    font-weight: 900;
+    display: flex;justify-content: center;
+}
+nav{
+    ul{list-style: none;
+        display: flex;
+    li{margin: 10px;font-weight: 450;
+    a{text-decoration: none;
+        color: black;
+        font-size: 20px;
+    }
+    }
+    }
+}
+
+}
+//! VARIABLES
+$color-principal:black;
